@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "sheet-modal",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
